@@ -23,6 +23,7 @@ What makes it a big data problem?
 
 ## Big Data Questions
 For each Subscribe User type, find the maximum male gender. (Satyavrath Injamuri)
+For each Subscriber User type, find the maximum tripduration. (Preetham Potu)
 
 ## Big Data Solutions
 
@@ -37,6 +38,21 @@ For each Subscribe User type, find the maximum male gender. (Satyavrath Injamuri
      * Customer Female
   * Reducer output:  show an example of a final key, value pair output by your reducer.
      * For Subscriber user type maximum male subscribed is 293,487 members.
+  * Language used:
+     * I am using python as a programming language to solve mapReduce.
+  * What type of chart will you use to display your results?
+     * I will use Bar Chart to display my result.
+- #### Preetham Potu
+  * Mapper Input: One line of data that mapper will read.
+     * 17536702 1/1/2018 0:12 1/1/2018 0:17 3304 323 69 Damen Ave & Pierce Ave 159 Claremont Ave & Hirsch St Subscriber Male 1988
+  * Mapper output / Reducer input: Tne below is the example of an intermediate key, value pair output by our mapper.
+     * Subscribe 323
+     * Subscribe 377
+     * Subscribe 266
+     * Customer  2782
+     * Customer  74977
+  * Reducer output:  show an example of a final key, value pair output by your reducer.
+     * For each Subscriber user type maximum tripduration is 13557600 minutes.
   * Language used:
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
