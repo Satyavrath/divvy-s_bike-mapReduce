@@ -22,8 +22,11 @@ What makes it a big data problem?
 - Value: With the data available we can figure out how many members subscribed for each quarter and the amount of distance on average people are using divvy's bike to travel. This data will be helpful in analyzing how many more bikes can be increased in the next quarter.
 
 ## Big Data Questions
-For each Subscribe User type, find the maximum male gender. (Satyavrath Injamuri)
-For each Subscriber User type, find the maximum tripduration. (Preetham Potu)
+- For each Subscribe User type, find the maximum male gender. (Satyavrath Injamuri)
+- For each Subscriber User type, find the maximum tripduration. (Preetham Potu)
+- For each Subscriber User type, find the average birth year. (Jyoshna Boppidi)
+- For each Subscriber User type, find the minimum tripduration. (Akhila Gandra)
+
 
 ## Big Data Solutions
 
@@ -68,6 +71,21 @@ For each Subscriber User type, find the maximum tripduration. (Preetham Potu)
      * Customer  1989
   * Reducer output:  show an example of a final key, value pair output by your reducer.
      * For each Subscriber user type average birthyear is 1981.
+  * Language used:
+     * I am using python as a programming language to solve mapReduce.
+  * What type of chart will you use to display your results?
+     * I will use Bar Chart to display my result.
+     - #### Akhila Gandra
+  * Mapper Input: One line of data that mapper will read.
+     * 17536702 1/1/2018 0:12 1/1/2018 0:17 3304 323 69 Damen Ave & Pierce Ave 159 Claremont Ave & Hirsch St Subscriber Male 1988
+  * Mapper output / Reducer input: Tne below is the example of an intermediate key, value pair output by our mapper.
+     * Subscribe 323
+     * Subscribe 377
+     * Subscribe 266
+     * Customer  2782
+     * Customer  74977
+  * Reducer output:  show an example of a final key, value pair output by your reducer.
+     * For each Subscriber user type minimum tripduration is 61 minutes.
   * Language used:
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
