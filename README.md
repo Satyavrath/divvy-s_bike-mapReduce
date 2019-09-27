@@ -57,7 +57,21 @@ For each Subscriber User type, find the maximum tripduration. (Preetham Potu)
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
      * I will use Bar Chart to display my result.
-
+- #### Jyoshna Boppidi
+  * Mapper Input: One line of data that mapper will read.
+     * 17536702 1/1/2018 0:12 1/1/2018 0:17 3304 323 69 Damen Ave & Pierce Ave 159 Claremont Ave & Hirsch St Subscriber Male 1988
+  * Mapper output / Reducer input: Tne below is the example of an intermediate key, value pair output by our mapper.
+     * Subscribe 1977
+     * Subscribe 1991
+     * Subscribe 1994
+     * Customer  1986
+     * Customer  1989
+  * Reducer output:  show an example of a final key, value pair output by your reducer.
+     * For each Subscriber user type average birthyear is 1981.
+  * Language used:
+     * I am using python as a programming language to solve mapReduce.
+  * What type of chart will you use to display your results?
+     * I will use Bar Chart to display my result.
       
      
 
