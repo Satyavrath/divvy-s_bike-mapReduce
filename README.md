@@ -61,7 +61,7 @@ What makes it a big data problem?
   * Language used:
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
-     * I will use Bar Chart to display my result.
+     * I will use Bar Chart to display my result.This chart shows the Maximum trip Duration of the subscriber.
      ![](https://github.com/Satyavrath/divvy-s_bike-mapReduce/blob/master/screenshot/Bargraphmax%20trip.PNG)
 - #### Jyoshna Boppidi
   * Mapper Input: One line of data that mapper will read.
@@ -95,7 +95,7 @@ What makes it a big data problem?
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
      * I will use Bar Chart to display my result.
-     This chart shows the Minimum trip Duration of thesubscriber.
+     This chart shows the Minimum trip Duration of the subscriber.
      
     ![](https://github.com/Satyavrath/divvy-s_bike-mapReduce/blob/master/screenshot/minTripDurationBarChart.PNG)
      
