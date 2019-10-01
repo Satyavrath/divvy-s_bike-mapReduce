@@ -94,6 +94,7 @@ What makes it a big data problem?
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
      * I will use Bar Chart to display my result.
+     This chart shows the Minimum trip Duration of thesubscriber.
      
     ![](https://github.com/Satyavrath/divvy-s_bike-mapReduce/blob/master/screenshot/minTripDurationBarChart.PNG)
      
