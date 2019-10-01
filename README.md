@@ -44,7 +44,8 @@ What makes it a big data problem?
   * Language used:
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
-     * I will use Bar Chart to display my result.
+     * This bar chart displays total count of male and female enrolled as a subsriber usertype. Of the both Male count is maximum subsriber than female.
+     ![](https://github.com/Satyavrath/divvy-s_bike-mapReduce/blob/master/screenshot/maxMaleCountBarChart.PNG)
 - #### Preetham Potu
   * Mapper Input: One line of data that mapper will read.
      * 17536702 1/1/2018 0:12 1/1/2018 0:17 3304 323 69 Damen Ave & Pierce Ave 159 Claremont Ave & Hirsch St Subscriber Male 1988
