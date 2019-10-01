@@ -45,6 +45,7 @@ What makes it a big data problem?
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
      * This bar chart displays total count of male and female enrolled as a subsriber usertype. Of the both Male count is maximum subsriber than female.
+     
      ![](https://github.com/Satyavrath/divvy-s_bike-mapReduce/blob/master/screenshot/maxMaleCountBarChart.PNG)
 - #### Preetham Potu
   * Mapper Input: One line of data that mapper will read.
@@ -76,7 +77,7 @@ What makes it a big data problem?
   * Language used:
      * I am using python as a programming language to solve mapReduce.
   * What type of chart will you use to display your results?
-     * I will use Bar Chart to display my result.
+     * The below bar chart displays average birthyear for subscriber usertype.
      
     ![](https://github.com/Satyavrath/divvy-s_bike-mapReduce/blob/master/screenshot/averagebirthyearbarchart.PNG)
 - #### Akhila Gandra
