@@ -1,6 +1,5 @@
 x = open("PreethamMapperOutput.txt",'r')
 y=open("PreethamReducerOutput.txt",'w')
-a = {}
 s = []
 for line in x:
     data = line.strip().split("\t")
